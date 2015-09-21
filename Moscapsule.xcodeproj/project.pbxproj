@@ -304,6 +304,7 @@
 		09CF6B0A1A21F78700A97383 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = flightonary;
 				TargetAttributes = {
